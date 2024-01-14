@@ -1,5 +1,6 @@
 < PC 카메라 영상의 배경을 임의의 다른 배경으로 교체 >
-
+- Implementing one of difference-keying algorithms
+  
 알고리즘 과정
 1. 배경과 전경 프레임 크기 동일하게 읽어오기
 현재 비디오 프레임과 배경 비디오 프레임을 읽어와 동일한 크기로 조절

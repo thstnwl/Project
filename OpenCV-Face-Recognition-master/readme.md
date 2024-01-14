@@ -1,4 +1,5 @@
 < PC 카메라 영상에 나타나는 사람을 인식하여 정보 표시 >
+- Implementing one of face recognition algorithms
 
 알고리즘 과정
 
